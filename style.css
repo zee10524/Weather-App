@@ -1,0 +1,25 @@
+body {
+    font-family: sen;
+    text-align: center;
+    background-color: rgb(209, 150, 150);
+    padding: 20px;
+}
+.weather-container {
+    background: rgb(225, 210, 210);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 8px 5px rgb(20, 20, 20, 0.2);
+    display: inline-block;
+}
+
+h1{
+    color: rgb(4, 0, 1)
+
+}
+
+h4{
+    font-family: sen;
+    font-weight: 400;
+    text-align: center;
+   
+}
